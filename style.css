@@ -1,3 +1,13 @@
-.rotate {
-    transform: rotate(180deg);
-}
+body {
+    background-image: url("pawwallpaper.jpg");
+  }
+
+  main {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 400px;
+    background: #fff;
+  }
+
+  img {
+  }
